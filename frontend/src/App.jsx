@@ -1,9 +1,9 @@
-
+import { AddTask } from "./addTask"
 
 function App() {
   return(
     <>
-    <h1>Hello</h1>
+    <AddTask/>
     </>
   )
 }
